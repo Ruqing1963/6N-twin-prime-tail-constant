@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The first-principles origin of the tail constant K on the 6N skeleton: K = rho * S-tail(d) * B and a single scale (Part XI)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-03"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-twin-prime-tail-constant"
+keywords:
+  - twin primes
+  - Hardy-Littlewood singular series
+  - Chinese remainder theorem
+  - twin density
+  - conditional distribution
+  - experimental mathematics
+references:
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "6N closed-form conditional twin-gap distribution (Part VII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20518470
+  - type: software
+    title: "6N bridge-constant arithmetic (Part VIII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20519998
